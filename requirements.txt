@@ -4,3 +4,4 @@ seaborn
 matplotlib
 scikit-learn
 dtreeviz==2.2.2
+ploty
